@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="homepage-course" />
+        <module name="homepage-user" />
+        <module name="homepage-gateway" />
+        <module name="spring-cloud-config-server" />
+        <module name="spring-cloud-eureka-cluster" />
+        <module name="homepage-common" />
+        <module name="spring-cloud-config-client" />
+        <module name="spring-cloud-producer" />
+        <module name="homepage-eureka" />
+        <module name="spring-cloud-consumer" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="homepage-common" options="-parameters" />
+      <module name="homepage-course" options="-parameters" />
+      <module name="homepage-eureka" options="-parameters" />
+      <module name="homepage-gateway" options="-parameters" />
+      <module name="homepage-user" options="-parameters" />
+      <module name="spring-cloud-config-client" options="-parameters" />
+      <module name="spring-cloud-config-git" options="-parameters" />
+      <module name="spring-cloud-config-server" options="-parameters" />
+      <module name="spring-cloud-consumer" options="-parameters" />
+      <module name="spring-cloud-eureka-cluster" options="-parameters" />
+      <module name="spring-cloud-producer" options="-parameters" />
+    </option>
+  </component>
+</project>
