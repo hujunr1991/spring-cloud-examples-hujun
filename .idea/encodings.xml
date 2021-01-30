@@ -18,11 +18,15 @@
     <file url="file://$PROJECT_DIR$/imooc-homepage-service/homepage-user" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/imooc-homepage-service/homepage-user/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/imooc-homepage-service/homepage-user/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-basic-minio/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-config-git/spring-cloud-config-client/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-config-git/spring-cloud-config-client/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-config-git/spring-cloud-config-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-consumer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-eureka-cluster/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-producer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-netty/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-netty/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-flyway/src/main/java" charset="UTF-8" />
   </component>
 </project>

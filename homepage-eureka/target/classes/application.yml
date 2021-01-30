@@ -1,6 +1,18 @@
 spring:
   application:
     name: homepage-eureka
+  redis:
+    database: 8
+    host: 192.168.122.140
+    password:
+    jedis:
+      pool:
+        max-active: 8
+        max-idle: 8
+        max-wait: -1
+        min-idle: 0
+    port: 6379
+    timeout: 1000
 
 server:
   port: 8000
